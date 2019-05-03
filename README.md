@@ -4,7 +4,7 @@ Simple react app with webpack, babel, material-ui. Provides (in future) upload i
 
 ## Installation
 
-* git@github.com:aplatonov/react-photostock.git
+* `git@github.com:aplatonov/react-photostock.git`
 * cd react-photostock
 * npm install
 * npm start
